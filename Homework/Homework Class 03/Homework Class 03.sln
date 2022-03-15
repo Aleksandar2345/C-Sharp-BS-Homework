@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindStatistics", "FindStatistics\FindStatistics.csproj", "{DB63107F-D8F9-4791-9520-2E1D717E61B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfEven", "SumOfEven\SumOfEven.csproj", "{F6F084CB-D1AE-4E18-8E43-1A1E92025BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3 - Dont print out numbers divisible by 5", "Task3 - Dont print out numbers divisible by 5\Task3 - Dont print out numbers divisible by 5.csproj", "{9572C33B-FB1A-4274-B239-8C702177F05B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 4 - Array of 10 whole numbers", "Task 4 - Array of 10 whole numbers\Task 4 - Array of 10 whole numbers.csproj", "{2CEFFD52-F63A-4E3F-87FE-F601BA14D216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB63107F-D8F9-4791-9520-2E1D717E61B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB63107F-D8F9-4791-9520-2E1D717E61B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB63107F-D8F9-4791-9520-2E1D717E61B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB63107F-D8F9-4791-9520-2E1D717E61B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F084CB-D1AE-4E18-8E43-1A1E92025BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F084CB-D1AE-4E18-8E43-1A1E92025BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F084CB-D1AE-4E18-8E43-1A1E92025BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F084CB-D1AE-4E18-8E43-1A1E92025BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9572C33B-FB1A-4274-B239-8C702177F05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9572C33B-FB1A-4274-B239-8C702177F05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9572C33B-FB1A-4274-B239-8C702177F05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9572C33B-FB1A-4274-B239-8C702177F05B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CEFFD52-F63A-4E3F-87FE-F601BA14D216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEFFD52-F63A-4E3F-87FE-F601BA14D216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEFFD52-F63A-4E3F-87FE-F601BA14D216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEFFD52-F63A-4E3F-87FE-F601BA14D216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30D362D1-C8AD-4B95-B796-939FB82CA059}
+	EndGlobalSection
+EndGlobal
